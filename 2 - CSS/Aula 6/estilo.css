@@ -1,0 +1,16 @@
+/*margin = Espaçamento Externo
+  padding = Espaçamento Interno*/
+body {
+    background-color: #dfdfdf;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid white; /*shorthand*/
+    border-radius: 50%; /*1º canto superior esquerdo, 2º canto superior direito, 3º canto inferior direito, 4º inferior esquerdo*/
+    margin: 30px; /*shorthand, ou seja, tudo em apenas uma linha*/
+}
+
+p {
+    color: #222222;
+}
